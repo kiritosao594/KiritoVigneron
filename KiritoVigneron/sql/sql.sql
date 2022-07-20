@@ -1,4 +1,4 @@
-SERT INTO `addon_account` (`name`, `label`, `shared`) VALUES
+INSERT INTO `addon_account` (`name`, `label`, `shared`) VALUES
 	('society_vigneron','Vigneron',1)
 ;
 
